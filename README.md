@@ -1,1 +1,1 @@
-# Adilbajwascript.lua.pro
+# Adilbajwascript.lua
